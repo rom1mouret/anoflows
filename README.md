@@ -7,14 +7,17 @@ Parameters are trained with plain MLE rather than variational inference. This is
 
 ### Scikit-learn's Toy Datasets
 
-radial flows:
-![swiss_roll](images/swiss_roll3.png)
+| *Radial flows* |
+|:--:|
+| ![swiss_roll](images/swiss_roll3.png) |
 
-radial flows:
-![scurve](images/s_curve_1.png)
+| *Radial flows* |
+|:--:|
+| ![scurve](images/s_curve_1.png) |
 
-planar flows:
-![moons](images/moons2_planar.png)
+| *Planar flows* |
+|:--:|
+| ![moons](images/moons2_planar.png) |
 
 ### Anomaly Detection
 

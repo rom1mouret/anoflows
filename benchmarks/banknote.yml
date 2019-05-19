@@ -1,0 +1,7 @@
+where: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
+file: data/data_banknote_authentication.txt
+features: [0, 1, 2, 3]
+anomaly_classes: [0]
+normal_classes: [1]
+label_column: 4
+rounds: 5

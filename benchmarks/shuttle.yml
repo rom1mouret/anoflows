@@ -1,0 +1,8 @@
+where: https://www.kaggle.com/mlg-ulb/creditcardfraud
+file: data/shuttle.trn
+features: [1, 2, 3, 4, 5, 6, 7, 8]
+anomaly_classes: [2, 3, 4, 5, 6, 7]
+normal_classes: [1]
+label_column: 9
+delimiter: " "
+rounds: 5

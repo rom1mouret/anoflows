@@ -1,0 +1,8 @@
+where: http://archive.ics.uci.edu/ml/machine-learning-databases/00357/d
+file: data/datatraining.txt
+features: [Temperature, Humidity, Light, CO2, HumidityRatio]
+anomaly_classes: [1]
+normal_classes: [0]
+label_column: Occupancy
+indexed: true
+rounds: 5

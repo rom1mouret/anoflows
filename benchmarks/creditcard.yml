@@ -1,0 +1,7 @@
+where: https://www.kaggle.com/mlg-ulb/creditcardfraud
+file: data/creditcard.csv
+not_features: [Class]
+anomaly_classes: [1]
+normal_classes: [0]
+label_column: Class
+rounds: 5

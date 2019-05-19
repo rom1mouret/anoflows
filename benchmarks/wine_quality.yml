@@ -1,0 +1,8 @@
+where: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
+file: data/winequality-white.csv
+not_features: [quality]
+anomaly_classes: [3, 4]
+normal_classes: [9, 8, 7, 6, 5, 4]
+label_column: quality
+delimiter: ;
+rounds: 5

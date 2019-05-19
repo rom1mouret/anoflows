@@ -1,0 +1,7 @@
+where: http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope
+file: data/magic04.data
+features: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+anomaly_classes: [h]
+normal_classes: [g]
+label_column: -1
+rounds: 5

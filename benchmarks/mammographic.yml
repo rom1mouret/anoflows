@@ -1,0 +1,8 @@
+where: http://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/
+file: data/mammographic_masses.data
+features: [1, 2, 3, 4]
+anomaly_classes: [0]
+normal_classes: [1]
+label_column: 5
+missing_marker: "?"
+rounds: 5
